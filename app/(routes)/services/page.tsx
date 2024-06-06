@@ -1,12 +1,13 @@
 import AvatarServices from "@/components/avatar-services";
 import CircleImage from "@/components/circle-image";
+import ContainerPage from "@/components/container-page";
 import SliderServices from "@/components/slider-services";
 import TransitionPage from "@/components/transition-page";
 
 const ServicesPage = () => {
     return (
         <>
-
+           <ContainerPage>
             <TransitionPage />
             <CircleImage />
             <AvatarServices />
@@ -23,8 +24,10 @@ const ServicesPage = () => {
                     <SliderServices />
                 </div>
             </div>
+            //</ContainerPage>
         </>
     );
+    
 }
 
 export default ServicesPage;
