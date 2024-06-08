@@ -24,7 +24,7 @@ const ServicesPage = () => {
                     <SliderServices />
                 </div>
             </div>
-            //</ContainerPage>
+            </ContainerPage>
         </>
     );
     

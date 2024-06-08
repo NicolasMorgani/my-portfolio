@@ -36,23 +36,23 @@ export const CoverParticles = () => {
                         },
                         modes: {
                             push: {
-                                quantity: 4,
+                                quantity: 8,
                             },
                             repulse: {
-                                distance: 200,
+                                distance: 100,
                                 duration: 0.4,
                             },
                         },
                     },
                     particles: {
                         color: {
-                            value: "#ffffff",
+                            value: "#0FA5FF",
                         },
                         links: {
                             color: "#ffffff",
                             distance: 150,
                             enable: true,
-                            opacity: 0.5,
+                            opacity: 1.5,
                             width: 1,
                         },
                         move: {
@@ -72,7 +72,7 @@ export const CoverParticles = () => {
                             value: 80,
                         },
                         opacity: {
-                            value: 0.5,
+                            value: 1.5,
                         },
                         shape: {
                             type: "circle",
