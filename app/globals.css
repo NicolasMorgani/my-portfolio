@@ -9,11 +9,11 @@ html,
 body {
   /* height: 100%; */
   color: #fff;
-  background: #1f1934;
+  background: #192c34;
 }
 
 main {
-  background: #393a47;
+  background: #192c34;
   height: 100vh;
   height: 100dvh;
 }

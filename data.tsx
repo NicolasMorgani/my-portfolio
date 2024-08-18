@@ -1,20 +1,20 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin,  Rss,  Crop, Pencil, Computer, Book, Rocket, Speech,Github,Facebook,Instagram } from "lucide-react";
 
 export const socialNetworks = [
     {
         id: 1,
-        logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Linkedin size={30} strokeWidth={1} />,
+        src: "https://www.linkedin.com/in/nicolas-morgani/",
     },
     {
         id: 2,
-        logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Github  size={30} strokeWidth={1} />,
+        src: "https://github.com/NicolasMorgani",
     },
     {
         id: 3,
-        logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Facebook size={30} strokeWidth={1} />,
+        src: "https://www.facebook.com/nicolas.morgani?mibextid=ZbWKwL",
     },
     {
         id: 4,
@@ -23,8 +23,8 @@ export const socialNetworks = [
     },
     {
         id: 5,
-        logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
+        logo: <Instagram size={30} strokeWidth={1} />,
+        src: "https://www.instagram.com/niicomorgani/profilecard/?igsh=ZHUzNGJmZnl4OWUw",
     },
 ];
 
