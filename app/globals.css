@@ -9,11 +9,11 @@ html,
 body {
   /* height: 100%; */
   color: #fff;
-  background: #192c34;
+  background: #011117;
 }
 
 main {
-  background: #192c34;
+  background: #011117;
   height: 100vh;
   height: 100dvh;
 }
@@ -21,7 +21,7 @@ main {
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets
   .swiper-pagination-bullet {
-  background-color: #f5741c;
+  background-color: #03BEDD;
 }
 
 @layer utilities {
