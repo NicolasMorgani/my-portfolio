@@ -12,8 +12,8 @@ import Header from "@/components/header";
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NicoMorgani | Portfolio",
-  description: "Landing page made by Nico Morgani",
+  title: "NicoMorgani",
+  description: "Portfolio for developer Nico Morgani",
 };
 
 export default function RootLayout({

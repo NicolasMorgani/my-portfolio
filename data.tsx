@@ -199,8 +199,8 @@ export const dataPortfolio = [
         id: 7,
         title: "Dark Web ",
         image: "/image-7.jpg",
-        urlGithub: "https://github.com/NicolasMorgani",
-        urlDemo: "https://github.com/NicolasMorgani",
+        urlGithub: "https://github.com/NicolasMorgani/lucydiamondpage",
+        urlDemo: "https://san-martin-page.vercel.app/",
     },
     {
         id: 8,
