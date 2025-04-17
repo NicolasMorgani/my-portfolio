@@ -33,7 +33,7 @@ const ServicesPage = () => {
                     <p className="mb-3 text-xl text-gray-300">Ofrezco servicios de desarrollo web frontend y Backend especializados en la creación de sitios web y aplicaciones atractivas y funcionales. Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.</p>
                     <div
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
-                            <DownloadButton href="/NicoProgramacionn.pdf" fileName="portafolio.pdf" />
+                            <DownloadButton href="/hojadevida.pdf" fileName="portafolio.pdf" />
                         </div>
                 </div>
 

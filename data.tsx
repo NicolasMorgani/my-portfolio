@@ -172,37 +172,37 @@ export const dataPortfolio = [
     {
         id: 4,
         title: "Backend Auth",
-        image: "/image-4.jpg",
+        image: "/niqui.png",
         urlGithub: "https://github.com/NicolasMorgani/probando-nest-restapi",
         urlDemo: "https://github.com/NicolasMorgani",
     },
     {
         id: 5,
         title: "Api Gateway",
-        image: "/image-5.jpg",
+        image: "/saan.png",
         urlGithub: "https://github.com/NicolasMorgani/Api-Gateway",
         urlDemo: "https://github.com/NicolasMorgani",
     },
     {
         id: 6,
         title: "Microservice-Security",
-        image: "/image-6.jpg",
+        image: "/celuu.png",
         urlGithub: "https://github.com/NicolasMorgani/ms-auth",
         urlDemo: "https://github.com/NicolasMorgani",
     },
     {
         id: 7,
         title: "Dark Web ",
-        image: "/image-7.jpg",
+        image: "/sarmar.png",
         urlGithub: "https://github.com/NicolasMorgani/lucydiamondpage",
         urlDemo: "https://san-martin-page.vercel.app/",
     },
     {
         id: 8,
-        title: "E-commerce web",
-        image: "/image-8.jpg",
-        urlGithub: "https://github.com/NicolasMorgani",
-        urlDemo: "https://github.com/NicolasMorgani",
+        title: "Simulador-Recolector",
+        image: "/simuladorcamion.png",
+        urlGithub: "https://github.com/NicolasMorgani/Simulador-Recolector-de-Residuos",
+        urlDemo: "https://github.com/NicolasMorgani/Simulador-Recolector-de-Residuos",
     }
 ];
 
